@@ -1,4 +1,8 @@
 Hello! My name is Mesias Daniel.
 
+<<<<<<< HEAD
 
 git
+=======
+nova linha
+>>>>>>> c5d5b0b10bd05a7304683591b4eb6443045def5a
